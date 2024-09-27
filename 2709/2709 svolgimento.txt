@@ -1,0 +1,9 @@
+
+In questo esercizio si usa Kali Linux e Metasploit per sfruttare una vulnerabilità su un server Java RMI.
+
+Ping del bersaglio: Si verifica che il server (192.168.11.112) sia attivo.
+Avvio di Metasploit: Si apre Metasploit per cercare e sfruttare un exploit per Java RMI.
+Selezione dell'exploit: Viene scelto l'exploit per il server java_rmi_server.
+Scansione Nmap: Si esegue una scansione delle porte aperte del server bersaglio.
+Esecuzione dell'exploit: Viene lanciato l'exploit, ottenendo l'accesso al server.
+Accesso con Meterpreter: Si ottiene una connessione con il server compromesso per eseguire comandi e controllare il sistema.
